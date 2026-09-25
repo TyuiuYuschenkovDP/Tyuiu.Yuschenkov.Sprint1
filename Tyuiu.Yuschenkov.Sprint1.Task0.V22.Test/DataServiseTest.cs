@@ -1,9 +1,9 @@
 ﻿using Microsoft.VisualStudio.TestTools.UnitTesting;
 using System;
 
-using Tyuiu.Yuschenkov.Sprint1.Task0.V22.lib;
+using Tyuiu.Yuschenkov.Sprint1.Task0.V22.Lib;
 
-namespace Tyuiu.Yuschenkov.Sprint1.Task0.V22.test
+namespace Tyuiu.Yuschenkov.Sprint1.Task0.V22.Test
 {
     [TestClass]
     public class DateServiseTest

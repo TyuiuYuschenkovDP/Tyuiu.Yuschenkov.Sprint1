@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Tyuiu.Yuschenkov.Sprint1.Task0.V22.lib;
+using Tyuiu.Yuschenkov.Sprint1.Task0.V22.Lib;
 
 namespace Tyuiu.Yuschenkov.Sprint1.Task0.V22
 {
